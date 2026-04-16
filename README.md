@@ -77,10 +77,15 @@
 
 ---
 
-## 🤖 Dynamic Quote
+## 🤖 Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <i>
+    “Simplicity is hard to build, easy to use, and hard to charge for.  
+    Complexity is easy to build, hard to use, and easy to charge for.”
+  </i>
+  <br/><br/>
+  — Chris Sacca
 </p>
 
 ---
