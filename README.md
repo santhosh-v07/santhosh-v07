@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Santhosh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Santhosh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
@@ -7,10 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1200&color=E0E0E0&center=true&vCenter=true&width=750&lines=Designing+Scalable+Systems;Building+Secure+Backends;AI+Integrated+Applications;Production+Ready+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=E0E0E0&center=true&vCenter=true&width=650&lines=Designing+Scalable+Systems;Building+Secure+Backends;AI+Integrated+Applications;Production+Ready+Engineering" />
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=santhosh-v07&style=flat-square&color=blue" />
@@ -24,20 +22,20 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
 <p align="center">
-I build systems that are <b>secure, scalable, and production-ready</b>.<br/>
-Focused on backend architecture, AI integration, and performance engineering.
+  I build systems that are <b>secure, scalable, and production-ready</b>.<br/>
+  Focused on backend architecture, AI integration, and performance engineering.
 </p>
 
 ---
 
-## 🏗️ System Design Mindset
+## 🏗️ System Design
 
 <p align="center">
-Stateless APIs • Secure Auth • Rate Limiting • Fault Tolerance • Clean Architecture<br/>
-<b>Design → Secure → Optimize → Scale</b>
+  Stateless APIs • Secure Auth • Rate Limiting • Fault Tolerance • Clean Architecture<br/><br/>
+  <b>Design → Secure → Optimize → Scale</b>
 </p>
 
 ---
@@ -53,12 +51,12 @@ Stateless APIs • Secure Auth • Rate Limiting • Fault Tolerance • Clean A
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhosh-v07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh-v07&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=santhosh-v07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh-v07&theme=tokyonight&hide_border=true&background=0d1117"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhosh-v07&theme=github_dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhosh-v07&theme=github_dark" />
 </p>
 
 ---
@@ -90,21 +88,23 @@ Stateless APIs • Secure Auth • Rate Limiting • Fault Tolerance • Clean A
 ## 🚀 Featured Work
 
 <p align="center">
+  <b>🔐 Secure E-Commerce Backend</b><br/>
+  FastAPI • PostgreSQL • Redis • Docker<br/>
+  Production-grade authentication • Rate limiting • Razorpay integration
+</p>
 
-🔐 <b>Secure E-Commerce Backend</b><br/>
-FastAPI • PostgreSQL • Redis • Docker<br/>
-Production-grade auth • Rate limiting • Razorpay integration
+<br/>
 
-<br/><br/>
+<p align="center">
+  <b>⚡ AI Portfolio Platform</b><br/>
+  Modern UI • Parallax • SEO optimized • AI features
+</p>
 
-⚡ <b>AI Portfolio Platform</b><br/>
-Modern UI • Parallax • SEO optimized • AI features
+<br/>
 
-<br/><br/>
-
-🧠 <b>Scalable API Systems</b><br/>
-Fault-tolerant • High performance • Clean architecture
-
+<p align="center">
+  <b>🧠 Scalable API Systems</b><br/>
+  Fault-tolerant • High performance • Clean architecture
 </p>
 
 ---
