@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:5A189A,100:9D4EDD&height=220&section=header&text=Santhosh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:5A189A,100:9D4EDD&height=220&section=header&text=Santhosh%20V&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
     alt="Santhosh GitHub Profile Banner"
   />
 </p>
